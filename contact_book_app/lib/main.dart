@@ -11,7 +11,7 @@ class ContactBookApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'VIT Contact Book',
+      title: 'VIT Contact Books',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         primarySwatch: Colors.blue,
